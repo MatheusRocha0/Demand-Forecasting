@@ -1,4 +1,5 @@
 # Demand Forecasting
+![Image](time_series_image.jpeg)
 
 In this project, I built a statistical model able to forecast the demand for gasoline in the United States for the next 24 weeks.
 
