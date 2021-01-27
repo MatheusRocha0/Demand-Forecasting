@@ -3,6 +3,8 @@
 
 In this project, I built a Machine Learning model able to forecast the demand for gasoline in the United States for the next 24 weeks.
 
+Go to project: https://bit.ly/3t2iVwU
+
 ## Summary
 
 • Problem Statement
