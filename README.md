@@ -1,5 +1,5 @@
 # Demand Forecasting
-![Image](Image.jpeg)
+![Image](image.jpeg)
 
 In this project, I built a Machine Learning model able to forecast the demand for gasoline in the United States for the next 24 weeks.
 
